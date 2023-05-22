@@ -1,0 +1,9 @@
+encapsulation:инкапсуляция
+execute:выполнять,запускать
+inheritance:наследование
+password:пароль
+performance:производительность,выполнение
+permission:разрешение,полномочия
+polymorphism:полиморфизм
+predefine:переопределять,переопределение
+reference:ссылка,ссылаться,справка

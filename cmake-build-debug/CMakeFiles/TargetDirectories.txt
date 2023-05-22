@@ -1,0 +1,3 @@
+/Users/yanaspirchina/Desktop/технологии программирования/rgr/cmake-build-debug/CMakeFiles/rgr.dir
+/Users/yanaspirchina/Desktop/технологии программирования/rgr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanaspirchina/Desktop/технологии программирования/rgr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
